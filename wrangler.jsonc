@@ -1,5 +1,5 @@
 {
-  "name": "bpb-panel",
+  "name": "bia-payeen-bacheh",
   "compatibility_date": "2024-03-19",
   "main": "dist/worker.js",
   "build": {
